@@ -1,0 +1,18 @@
+
+Legend:
+ [*] - Needs attention.
+ [X] - Completed.
+ [#] - Partial implementation.
+ [@] - Pending implementation.
+ [N] - Needs to be implemented.
+
+-----------------------------------------------------------------
+
+ [*] - Better implementation for printing documents.
+ [N] - Taskbar ProgressBar
+ [#] - Jumplist support.
+ [X] - Implement Help information system.
+ [*] - Help documentation (wcc.chm).
+ [N] - Status Bar (Notepad style).
+ [X] - Word Wrap.
+ [X] - Time/Date Stamp.
