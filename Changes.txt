@@ -1,0 +1,6 @@
+
+1.0.6: Charlie M. McDonald
+  * Added: Jumplist (Windows 7, and maybe more modern releases of Windows) introduced.
+  * Added: Help documentation that is called by pressing F1, or by double clicking on wcc.chm.
+  * Fixed: The code that executed the help file was not properly implemented, it now works.
+  * Fixed: Windows XP support should be corrected, not producing the error message for dwmapi.dll.
