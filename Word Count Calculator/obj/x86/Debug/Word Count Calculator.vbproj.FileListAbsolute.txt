@@ -1,0 +1,23 @@
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Word Count Calculator.exe
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Word Count Calculator.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Word Count Calculator.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word_Count_Calculator.About.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word_Count_Calculator.Main.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word_Count_Calculator.Resources.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word_Count_Calculator.SysInf.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word Count Calculator.exe
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word Count Calculator.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug\Word Count Calculator.pdb

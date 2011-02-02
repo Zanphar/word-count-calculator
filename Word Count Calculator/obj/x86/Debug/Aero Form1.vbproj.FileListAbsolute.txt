@@ -1,0 +1,11 @@
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\bin\Debug\Aero Form.exe
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\bin\Debug\Aero Form.pdb
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\bin\Debug\Aero Form.xml
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\Aero_Form1.Main.resources
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\Aero_Form1.Resources.resources
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\Aero Form.exe
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\Aero Form.xml
+C:\Users\Charlie McDonald\AppData\Local\Temporary Projects\Aero Form1\obj\x86\Debug\Aero Form.pdb
