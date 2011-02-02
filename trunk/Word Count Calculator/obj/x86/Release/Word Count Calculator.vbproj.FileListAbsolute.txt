@@ -1,0 +1,18 @@
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Release\Word Count Calculator.exe
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Release\Word Count Calculator.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Release\Word Count Calculator.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word_Count_Calculator.About.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word_Count_Calculator.Main.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word_Count_Calculator.Resources.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word_Count_Calculator.SysInf.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word Count Calculator.exe
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word Count Calculator.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word Count Calculator.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Release\Word Count Calculator.exe.manifest
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\Release\Word Count Calculator.application
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word Count Calculator.TrustInfo.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word Count Calculator.exe.manifest
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Release\Word Count Calculator.application

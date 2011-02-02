@@ -1,0 +1,13 @@
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\x86\Debug - x64\Word Count Calculator.exe
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\x86\Debug - x64\Word Count Calculator.pdb
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\bin\x86\Debug - x64\Word Count Calculator.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\ResolveAssemblyReference.cache
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word_Count_Calculator.About.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word_Count_Calculator.Main.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word_Count_Calculator.Resources.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word_Count_Calculator.SysInf.resources
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\GenerateResource.read.1.tlog
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\GenerateResource.write.1.tlog
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word Count Calculator.exe
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word Count Calculator.xml
+C:\Users\Charlie McDonald\Documents\Visual Studio 2010\Projects\Word Count Calculator\Word Count Calculator\obj\x86\Debug - x64\Word Count Calculator.pdb
